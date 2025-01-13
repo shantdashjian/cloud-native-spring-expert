@@ -7,6 +7,7 @@
 
 ## In This Document:
   - [Live Application URL](#live-application-url)
+  - [System Design](#system-design)
   - [Repositories](#repositories)
   - [How to Use the Application](#how-to-use-the-application)
   - [Technologies Used](#technologies-used)
@@ -15,6 +16,9 @@
 
 ## Live Application URL
 [https://cloudnativespringexpert.pages.dev/](https://cloudnativespringexpert.pages.dev/)
+
+## System Design
+![system-design](demo/system-design.png)
 
 ## Repositories:
 1. [Web client repository](https://github.com/shantdashjian/cloud-native-spring-expert-client)
