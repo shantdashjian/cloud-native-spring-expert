@@ -31,7 +31,12 @@ While learning and later teaching cloud native devops, I created this AI assista
 3. LangChain.
 4. Supabase.
 5. RAG: Retrieval Augmented Generation.
-   
+
+## 🤝 Contributing
+I welcome contributions! Fork the repo and open a pull request.
+
+Pull requests should be submitted to the `main` branch.
+
 <hr>
 
 [Up](README.md)
