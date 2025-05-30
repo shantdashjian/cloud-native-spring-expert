@@ -5,43 +5,32 @@
 
 ![demo](demo/demo.png "Demo")
 
-## In This Document:
-  - [Live Application URL](#live-application-url)
-  - [System Design](#system-design)
-  - [Repositories](#repositories)
-  - [How to Use the Application](#how-to-use-the-application)
-  - [Technologies Used](#technologies-used)
-  - [Future Features:](#future-features)
-  - [Challenges and Learning Points:](#challenges-and-learning-points)
+## 🤔 Motivation
 
-## Live Application URL
+While learning and later teaching cloud native devops, I created this AI assistant to accompany me in the journey. It would answer questions based on the book, to help with my retrieval practice.
+
+## 🚀 Quick Start
+1. Navigate to [https://cloudnativespringexpert.pages.dev/](https://cloudnativespringexpert.pages.dev/).
+2. Ask a question related to Cloud Native Spring and DevOps by typing it in the input field.
+3. Hit ENTER or click on the arrow button.
+4. The App responds with an answer based on the information in the book.
+
+## 🖥️ Live Application URL
 [https://cloudnativespringexpert.pages.dev/](https://cloudnativespringexpert.pages.dev/)
 
-## System Design
+## 🎨 System Design
 ![system-design](demo/system-design.png)
 
-## Repositories:
+## 💾 Repositories
 1. [Web client repository](https://github.com/shantdashjian/cloud-native-spring-expert-client)
 2. [Cloudflare worker repository](https://github.com/shantdashjian/cloud-native-spring-expert-worker)
-   
-## How to Use the Application
-   
-1. The learner asks a question related to Cloud Native Spring and DevOps by typing it in the input field.
-2. They hit ENTER or click on the arrow button.
-3. The App responds with an answer based on the information in the book.
 
-## Technologies Used
+## 🤖 Technologies Used
 1. HTML, CSS, and JavaScript.
 2. OpenAI API.
 3. LangChain.
 4. Supabase.
 5. RAG: Retrieval Augmented Generation.
-
-## Future Features:
-1. Make the UI responsive.
-
-## Challenges and Learning Points:
-1. I practiced splitting the code into a frontend client and a backend worker and deploeyd both to Cloudflare.
    
 <hr>
 
