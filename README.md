@@ -3,7 +3,7 @@
 
 📕 I highly recommend you buy and read [the book](https://www.manning.com/books/cloud-native-spring-in-action). It's an excellent book that strengthens your knowledge and experience in cloud native, Spring Cloud, DevOps, Kubernetes, GitHub Actions, and many more.
 
-![demo](demo/demo.png "Demo")
+[<img src="demo/demo.png">](https://cloudnativespringexpert.pages.dev/)
 
 ## 🤔 Motivation
 
